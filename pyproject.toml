@@ -6,6 +6,7 @@ authors = ["Dmytro Chasovskyi <dmytro.chasovskyi@greenbird.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+fastapi = {extras = ["all"], version = "^0.63.0"}
 
 [tool.poetry.dev-dependencies]
 
