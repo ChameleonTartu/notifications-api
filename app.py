@@ -15,7 +15,7 @@ async def ping():
     return {"message": "Pong"}
 
 
-@app.post("/notification/")
+@app.post("/notification")
 async def create_notification(notification: Notification):
     print(notification)
     return notification
