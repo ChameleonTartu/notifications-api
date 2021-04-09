@@ -1,3 +1,5 @@
+[![Analytics](https://ga-beacon.appspot.com/G-R4W32GTLE2/notifications-api/readme)](https://github.com/igrigorik/ga-beacon)
+
 This source code is part of the presentation about secure localhost tunneling.
 
 Developed with [FastAPI](https://fastapi.tiangolo.com/)
